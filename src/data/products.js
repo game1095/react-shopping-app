@@ -11,14 +11,14 @@ const products = [
         name : "หูฟัง",
         image:"assets/product2.jpg",
         price:1500,
-        quantity:2
+        quantity:1
     },
     {
         id:3,
         name : "กระเป๋า",
         image:"assets/product3.jpeg",
         price:1000,
-        quantity:3
+        quantity:1
     }
 ]
 
